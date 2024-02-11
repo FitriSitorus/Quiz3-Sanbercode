@@ -21,3 +21,7 @@ Custom command
 Fixtures
 Page Object Model
 Buatlah sebuah Github Repository Kelompok, invite semua anggota kelompok untuk menjadi kontributor, dan push changes ke repository tersebut. Changes harus di merge ke master/main branch.
+
+
+##### Langkah-langkah run 
+Mengggunakan perintah : npx cypress run
